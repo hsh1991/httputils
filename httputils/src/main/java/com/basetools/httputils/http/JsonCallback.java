@@ -1,18 +1,10 @@
 package com.basetools.httputils.http;
 
-import android.util.Log;
-
-import com.basetools.httputils.model.MsgModel;
 import com.google.gson.stream.JsonReader;
-
-import org.json.JSONException;
-import org.json.JSONObject;
 
 import java.io.StringReader;
 import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;
-
-import okhttp3.Response;
 
 /**
  * Created by han on 18-5-2.
